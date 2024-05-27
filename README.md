@@ -1,7 +1,9 @@
 
 # Hi there, I'm Parakh Gupta :wave:
 
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello GIF" width="300">
+![Profile Views](https://hits.dwyl.com/parakh-gupta/parakh-gupta.svg)
+![GitHub followers](https://img.shields.io/github/followers/parakh-gupta?label=Follow&style=social)
+
 
 ## :rocket: About Me
 
@@ -42,10 +44,9 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<div>
-  <img height=200 align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=parakh-gupta&show_icons=true&theme=catppuccin_latte&include_all_commits=true&hide=contribs,prs&rank_icon=github&card_width=200"/>
-  <img height=200 align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parakh-gupta&layout=compact&theme=catppuccin_latte&langs_count=8&card_width=400" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=parakh-gupta&show_icons=true&theme=catppuccin_latte&include_all_commits=true&hide=contribs,prs&rank_icon=github&card_width=450)
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=parakh-gupta&layout=compact&theme=catppuccin_latte&langs_count=8&card_width=450)
 
 ## :mailbox: Let's Connect
 
@@ -53,6 +54,9 @@ Feel free to explore my repositories and connect with me to discuss potential co
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parakh.gupta.98@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parakh-gupta/)
+
+
+
 
 
 
